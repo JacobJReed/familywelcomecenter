@@ -98,3 +98,8 @@ h1, h2 {
     background-color: #4CAF50 !important;
     font-weight: bold;
 }
+
+.stripe-header {
+    color: #635bff; /* Stripe purple */
+    font-weight: bold;
+}

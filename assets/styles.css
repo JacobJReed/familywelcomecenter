@@ -85,3 +85,16 @@ h1, h2 {
 .program p {
     margin: 0;
 }
+
+.nav-tabs .nav-link {
+    color: #4CAF50 !important;
+    font-weight: bold;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link:focus {
+    color: #fff !important;
+    background-color: #4CAF50 !important;
+    font-weight: bold;
+}
